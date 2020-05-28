@@ -1,3 +1,6 @@
+# Example of strings and string manipulation
+# Beef Erikson Studios 2020
+
 # Simple Hello World
 puts 'Hello, World!'
 

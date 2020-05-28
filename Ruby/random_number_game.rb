@@ -1,4 +1,5 @@
 # Simple guess the number game
+# Beef Erikson Studios 2020
 
 random_number = rand(10).to_int + 1
 guess = 0
