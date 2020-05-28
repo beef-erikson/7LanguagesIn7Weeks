@@ -5,5 +5,5 @@ My code from working through the book [Seven Languages in Seven Weeks - Bruce Ta
 
 ## Week 1 - Ruby
 ### Day 1
-![String Examples](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/Day1Strings.ruby)  
-![Simple Number Guessing Game](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/Day1RandomNumberGame.ruby)  
+![String Examples](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/strings.rb)  
+![Simple Number Guessing Game](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/random_number_game.rb)  
