@@ -1,4 +1,4 @@
-# Implements and demonstrates a node tree
+# Implements and outputs a node tree
 # Beef Erikson Studios - 2020
 
 # Tree class
