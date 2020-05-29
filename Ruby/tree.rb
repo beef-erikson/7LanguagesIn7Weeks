@@ -4,12 +4,12 @@
 # Tree class
 # ----
 # Instance variables
-#   name - node name 
-#   children - nodes' children
+#   name            node name 
+#   children        nodes' children
 #
 # Block methods
-#   visit_all     outputs node name and all children
-#   visit         outputs node name only
+#   visit_all       outputs node name and all children
+#   visit           outputs node name only
 # ----
 class Tree
     # Defines instance variables
