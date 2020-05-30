@@ -9,4 +9,5 @@ My code from working through the book [Seven Languages in Seven Weeks - Bruce Ta
 ![Simple Number Guessing Game](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/random_number_game.rb)  
 
 ### Day 2
-![Implementing and Displaying a Tree](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/tree.rb)
+![Implementing and Displaying a Tree](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/tree.rb)  
+![Module to Write to File](https://github.com/beef-erikson/7LanguagesIn7Weeks/blob/master/Ruby/to_file.rb)  
