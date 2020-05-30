@@ -20,7 +20,7 @@ end
 # Person class
 # ----
 # Instance variable
-#   name            name of person/file
+#   name            used to write file contents
 #
 # Method
 #   to_s            used by to_f to specify file contents
